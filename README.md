@@ -115,6 +115,11 @@ Outcome
   countries and years.
 
 
+# Contribution
+
+Developed by Jeisson Rojas as a contribution to OpenGovAfrica.
+
+
 
 
 
