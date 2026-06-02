@@ -33,7 +33,7 @@ into long format:
 Country	Year	Value
 SQL Technique
 
-![Unpivot Querie ] (https://github.com/jeisteve999/Poverty-Inequality-and-Data-Availability-in-African-Countries-2000-2025-/blob/main/unpivot%20querie.png)
+![Unpivot Querie ](https://github.com/jeisteve999/Poverty-Inequality-and-Data-Availability-in-African-Countries-2000-2025-/blob/main/unpivot%20querie.png)
 
 # Outcome
 
