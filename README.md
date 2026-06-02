@@ -105,12 +105,14 @@ Outcome
 
 # Key Findings
 
-Niger recorded the highest poverty rate among countries with available data (94.7%).
-Sierra Leone and Tanzania also showed poverty rates above 90%.
-Angola exhibited one of the lowest poverty rates (8.0%) while maintaining a high Gini Index (51.3).
-High poverty does not necessarily imply high income inequality.
-Data coverage varies significantly across indicators, highlighting transparency and reporting challenges.
-Slum population indicators showed the highest reporting availability across African countries.
+- Niger recorded the highest poverty rate among countries 
+  with available data (94.7%, based on most recent observation).
+- Angola presents a notable paradox: one of the lowest poverty 
+  rates (8.0%) alongside a high Gini Index (51.3), reflecting 
+  wealth concentration driven by oil revenues.
+- Data availability is a critical limitation: the Gini Index 
+  and income share indicators show significant gaps across 
+  countries and years.
 
 
 
