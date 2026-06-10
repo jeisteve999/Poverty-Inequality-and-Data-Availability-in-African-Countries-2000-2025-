@@ -12,6 +12,12 @@ https://data.worldbank.org/topic/poverty
 
 -Dataset: Poverty and Equity Database
 
+# SQL Script
+
+The complete SQL workflow used for data cleaning, transformation, validation, and exploratory analysis can be found here:
+
+[View SQL Script](https://github.com/jeisteve999/Poverty-Inequality-and-Data-Availability-in-African-Countries-2000-2025-/blob/main/poverty.africa.2.sql)
+
 -Coverage:
 
 African Countries
